@@ -1,5 +1,3 @@
-import { TodoItem } from './TodoItem'
-
 export function TodoItem({ todo, toggleTodo, deleteTodo }) {
   return (
     <li>
