@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "use-debounce": "^10.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "eslint-config-next": "^16.1.6"
+  }
+}
